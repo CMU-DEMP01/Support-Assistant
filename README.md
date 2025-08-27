@@ -15,6 +15,7 @@ This component allows users to **upload PDFs, ingest URLs, and chat with an AI a
 
 ## 📽️ Demo Video  
 [▶ Watch Demo](./https://github.com/CMU-DEMP01/Support-Assistant/blob/main/assistant-support.mp4)
+![App Screenshot](https://github.com/CMU-DEMP01/cmu-recaptcha/raw/master/pages/screenshot1.png)
 
 
 ---
